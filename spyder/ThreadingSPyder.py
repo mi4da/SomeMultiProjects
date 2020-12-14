@@ -48,7 +48,7 @@ if __name__ == '__main__':
     start = time.time()
     sspyder = SerialSpyder()
     #  爬取前64叶
-    for i in range(1, 5):
+    for i in range(1, 65):
         # 设置url
         format_url = url.format(i)
         # 设置页码
