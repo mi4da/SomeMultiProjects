@@ -109,60 +109,65 @@ def concurrent_for_data(page_url):
 
 if __name__ == "__main__":
     num = 3324998
-    num1 = 3329148
+    num1 = 3325000
     num10 = 3325010
 
     ###########串行代码###############
-    start = time.time()
-    table_and_ficticon = line_for_data([num, num10])
-    content_list = [i[1] for i in table_and_ficticon]
-    content_str = "\n".join(content_list)
-    a = open("line_fiction.txt","w",encoding="utf8")
-    a.write(content_str)
-    a.close()
-    end = time.time()
-    print("串行爬取小说花费时间：{}\n".format(end - start))
-    print("串行爬取小说每章花费时间：{} s/章(2页)\n".format(((end - start)/(num10-num))))
-    #串行爬取小说花费时间：51.056127071380615
-    #串行爬取小说每章花费时间：4.254677255948384 s/ 章(2页)
-
-    print("###############串行代码太过缓慢，采用threading的线程并行爬取的方式！#############")
-    start1 = time.time()
-    ##########################
-    table_list = [i for i in range(num,num1)]
-    print("list:",list(np.array_split(table_list, 6)[0]))
-    p1 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[0]),))
-    p2 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[1]),))
-    p3 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[2]),))
-    p4 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[3]),))
-    p5 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[4]),))
-    p6 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[5]),))
-    p1.start()
-    p2.start()
-    p3.start()
-    p4.start()
-    p5.start()
-    p6.start()
-    p1.join()
-    p2.join()
-    p3.join()
-    p4.join()
-    p5.join()
-    p6.join()
-    end1 = time.time()
-    print("threading开启6核并行花费时间：{}\n".format(end1 - start1))
-    print("threading开启6核并行爬取小说每章花费时间：{} s/章(2页)\n".format(((end1 - start1) / (num1 - num))))
+    # start = time.time()
+    # table_and_ficticon = line_for_data([num, num10])
+    # content_list = [i[1] for i in table_and_ficticon]
+    # content_str = "\n".join(content_list)
+    # a = open("line_fiction.txt","w",encoding="utf8")
+    # a.write(content_str)
+    # a.close()
+    # end = time.time()
+    # print("串行爬取小说花费时间：{}\n".format(end - start))
+    # print("串行爬取小说每章花费时间：{} s/章(2页)\n".format(((end - start)/(num10-num))))
+    # #串行爬取小说花费时间：51.056127071380615
+    # #串行爬取小说每章花费时间：4.254677255948384 s/ 章(2页)
+    #
+    # print("###############串行代码太过缓慢，采用threading的线程并行爬取的方式！#############")
+    # start1 = time.time()
+    # ##########################
+    # table_list = [i for i in range(num,num1)]
+    # print("list:",list(np.array_split(table_list, 6)[0]))
+    # p1 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[0]),))
+    # p2 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[1]),))
+    # p3 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[2]),))
+    # p4 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[3]),))
+    # p5 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[4]),))
+    # p6 = Thread(target=threading_for_data, args=(list(np.array_split(table_list, 6)[5]),))
+    # p1.start()
+    # p2.start()
+    # p3.start()
+    # p4.start()
+    # p5.start()
+    # p6.start()
+    # p1.join()
+    # p2.join()
+    # p3.join()
+    # p4.join()
+    # p5.join()
+    # p6.join()
+    # end1 = time.time()
+    # print("threading开启6核并行花费时间：{}\n".format(end1 - start1))
+    # print("threading开启6核并行爬取小说每章花费时间：{} s/章(2页)\n".format(((end1 - start1) / (num1 - num))))
     ###共3788章threading开启6核并行花费时间：2936.83971118927
     ####threading并行爬取小说每章花费时间：1.289821840058877 s/ 章(2页)
 
     print("###############串行代码太过缓慢，采用第二种线程——concurrent的并行爬取的方式！#############")
     start2 = time.time()
+    # 先构造url列表
     page_urls = get_url(num, num1)
+    # 开启线程池
     executor = ThreadPoolExecutor(max_workers=12)
+    # 获得并行数据
     concurrent_table_content = executor.map(concurrent_for_data, page_urls)
     concurrent_table_content_list = list(concurrent_table_content)
     concurrent_table_content_list_new = [i[0][1] for i in concurrent_table_content_list]
     concurrent_content_str = "\n".join(concurrent_table_content_list_new)
+
+    """写文件"""
     #executor.shutdown()
     c = open("concurrent_fiction.txt","w",encoding='utf8')
     c.write(concurrent_content_str)

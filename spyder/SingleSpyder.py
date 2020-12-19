@@ -37,8 +37,7 @@ class SerialSpyder:
                 f.write(lis[i]+'\n')
         print("保存结束")
 
-class ConcurrentSpyder:
-    pass
+
 
 
 if __name__ == '__main__':
@@ -63,5 +62,4 @@ if __name__ == '__main__':
     end = time.time()
     print("串行耗时：",(end-start))
 
-    """并行爬取"""
-    cspyder = ConcurrentSpyder()
+
