@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-from sql_test import database
+# from sql_test import database
 def spider(url,headers):
     res = requests.get(url,headers=headers)
     # requests默认的编码是‘ISO-8859-1’，会出现乱码，这里重编码为utf-8
@@ -18,6 +18,7 @@ def save(name,text):
         f.write(text)
 def contentmade(text):
     content_soup = BeautifulSoup(content_text, 'html.parser')
+
     title = content_soup.find_all("td",
                                   style="FONT-WEIGHT: bold;FONT-SIZE: 14pt;COLOR: #d52b2b;LINE-HEIGHT: 250%;FONT-FAMILY: 宋体;TEXT-ALIGN: center")[
         0].text.strip()
@@ -64,10 +65,10 @@ if __name__ == '__main__':
         "db": "GOVDB",# 记得提前创建数据库
         "charset": "utf8"  # 一定要加上负责中文无法显示
     }
-    db = database(info)
+    # db = database(info)
     # 创建数据库
-    db.create_database()
+    # db.create_database()
     # 插入数据
-    db.insert_data()
+    # db.insert_data()
     # save("index",text)
 
