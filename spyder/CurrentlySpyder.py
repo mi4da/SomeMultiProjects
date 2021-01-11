@@ -35,10 +35,10 @@ def CurrentForData(url):
 
 if __name__ == '__main__':
     """使用线程池并行爬取小说标题"""
-
+    st = time.time()
     """构造url"""
     url = "https://www.biquge.lol/book/1983/index_{}.html"
-    urls = [url.format(i) for i in range(1, 5)]
+    urls = [url.format(i) for i in range(1, 65)]
 
     """开启线程池子"""
     executer = ThreadPoolExecutor(max_workers=4)
@@ -51,3 +51,5 @@ if __name__ == '__main__':
 
     """保存"""
     save_list("./current_三寸人间.txt",concurrent_list_maped)
+    et = time.time()
+    print("并行用时",(et-st))
