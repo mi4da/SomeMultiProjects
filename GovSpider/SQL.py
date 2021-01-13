@@ -29,8 +29,8 @@ class database:
         文件类型 CHAR(50) NOT NULL,
         招标方  CHAR(20) NULL,
         中标方  CHAR(20) NULL,   
-        成交时间 DATE NULL,
-        成交金额 INT NULL,
+        成交时间 CHAR(20) NULL,
+        成交金额 CHAR(20) NULL,
         文件标题 CHAR(50) NULL,
         网页内容 LONGTEXT NULL,
         PRIMARY KEY ( `id` )
@@ -48,8 +48,8 @@ class database:
         # SQL 插入语句
         sql = "INSERT INTO 商洛市政府官网中标信息(文件类型, \
                招标方, 中标方, 成交时间, 成交金额, 文件标题, 网页内容) \
-               VALUES ('%s', '%s',  '%s',  '%s',  '%d', '%s', '%s')" % \
-              (content)
+               VALUES ('%s', '%s',  '%s',  '%s',  '%s', '%s', '%s')" % \
+              tuple(content)
         try:
             # 执行sql语句
             cursor.execute(sql)

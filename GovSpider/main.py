@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 from SQL import database
-
+from Regter import *
 
 def spider(url, headers):
     res = requests.get(url, headers=headers)
@@ -25,33 +25,22 @@ def save(file_name, text):
 
 def contentmade(content_text):
     content_soup = BeautifulSoup(content_text, 'html.parser')
-    """
-            文件类型 CHAR(50) NOT NULL,
-            招标方  CHAR(20) NOT NULL,
-            中标方  CHAR(20) NULL,   
-            成交时间 DATE NULL,
-            成交金额 INT NULL,
-            文件标题 CHAR(50) NULL,
-            文件内容 LONGTEXT NULL,
-        """
-    try:
 
-        title = content_soup.find_all("td",
-                                      style="FONT-WEIGHT: bold;FONT-SIZE: 14pt;COLOR: #d52b2b;LINE-HEIGHT: 250%;FONT-FAMILY: 宋体;TEXT-ALIGN: center")[
-            0].text.strip()
+    # try:
 
-    # 对于文本的选择content_soup.find_all("p")[4:-4]
-        text = content_soup.find_all("p")[4:-4]
-        invitation = text[16].text
-        win = text[4].text
-        money = text[6].text
-        win_time = text[-1].text  # 还需要进一步处理
-        win_time = win_time.replace("年", "-")
-        win_time = win_time.replace("月", "-")
-        win_time = win_time.replace("日", "-")
-        sql_lis = ["中标文件", invitation, win, win_time, money, title, content_text]
-    except:
-        sql_lis = ["中标文件", "", "", "", "", "", content_text]
+    title = content_soup.find_all("td",
+                                  style="FONT-WEIGHT: bold;FONT-SIZE: 14pt;COLOR: #d52b2b;LINE-HEIGHT: 250%;FONT-FAMILY: 宋体;TEXT-ALIGN: center")[
+        0].text.strip()
+
+# 对于文本的选择content_soup.find_all("p")[4:-4]
+
+    invitation = get_invitor(content_text)
+    win = get_win(content_text)
+    money = get_money(content_text)
+    win_time = get_date(content_text)
+    sql_lis = ["中标文件", invitation, win, win_time, money, title, content_text]
+    # except:
+    #     sql_lis = ["中标文件", "", "", "", "", "", content_text]
     return sql_lis
 
 

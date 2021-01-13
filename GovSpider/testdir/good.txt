@@ -1,0 +1,736 @@
+﻿<html><head><title>信息公开-商洛市人民政府</title>
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><script src="../../../../../zwgk/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+body {
+    background-image: url(../../../../../zwgk/images/bg.jpg);}
+body,td,th {
+    font-size: 12px;
+    color: #333333;}
+a {
+    font-size: 12px;}
+a:link {
+    text-decoration: none;
+    color: #333333;}
+a:visited {
+    text-decoration: none;
+    color: #333333;}
+a:hover {
+    text-decoration: none;
+    color: #CC0000;}
+a:active {
+    text-decoration: none;
+    color: #CC0000;}
+.STYLE1 {
+    color: #FF0000;
+    line-height: 150%;}
+-->
+</style>
+
+
+<!--Announced at 2020-11-17 11:27:53-->
+<!-- CustomerNO:7765626265604265697547545353544203010000 -->
+<link rel="stylesheet" type="text/css" href="../../../../../zwgk/zwgk-nry.vsb.css" />
+<META Name="keywords" Content="商洛市  人民政府  商洛市人民政府" />
+<script type="text/javascript" src="../../../../../system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/zwgk/zwgk-nry.jsp',-1,842629408)</script>
+</head>
+<body leftmargin="0" topmargin="0" bgcolor="#ffffff" marginwidth="0" marginheight="0">
+<table border="0" cellspacing="0" cellpadding="0" width="1003" align="center">
+<tbody>
+<tr>
+<td bgcolor="#cc0000" height="3"></td></tr></tbody></table>
+<table id="__" border="0" cellspacing="0" cellpadding="0" width="1003" bgcolor="#f6f6f6" align="center">
+<tbody>
+<tr>
+<td width="29"><img alt="" src="../../../../../images/logo-top_01.gif" width="29" height="23"></td>
+<td width="125"><a href="http://www.gov.cn/"><img border="0" alt="" src="../../../../../images/logo-top_02.gif" width="125" height="23"></a></td>
+<td width="139"><a href="http://www.shaanxi.gov.cn/"><img border="0" alt="" src="../../../../../images/logo-top_03.gif" width="139" height="23"></a></td>
+<td width="53"><img border="0" alt="" src="../../../../../images/logo-top_04.gif" width="53" height="23"></td>
+<td width="63"><a href="http://www.slrd.gov.cn/"><img border="0" alt="" src="../../../../../images/logo-top_05.gif" width="63" height="23"></a></td>
+<td width="65"><img border="0" alt="" src="../../../../../images/logo-top_06.gif" width="65" height="23"></td>
+<td width="65"><a href="http://slzy.chinacourt.org/"><img border="0" alt="" src="../../../../../images/logo-top_07.gif" width="65" height="23"></a></td>
+<td width="75"><a href="http://www.shaanxichina.org/web/11041018/sljc/"><img border="0" alt="" src="../../../../../images/logo-top_08.gif" width="75" height="23"></a></td>
+<td width="79"><img alt="" src="../../../../../images/logo-top_09.gif" width="79" height="23"></td>
+<td bgcolor="#f6f6f6" width="34" align="right"><font color="#333333" face="Times New Roman"><a href="../../../../../sys_e_index.jsp#"></a></font></td>
+<td bgcolor="#f6f6f6" width="10" align="right"><font color="#333333" face="Times New Roman"><a href="../../../../../sys_e_index.jsp#"></a></font></td>
+<td bgcolor="#f6f6f6" width="87" align="left"><!--#begineditable name="简体繁体转换" viewid="1156" tagname="简体繁体转换" action="" layout="" contype="" stylesysid=""-->
+<LINK href="../../../../../system/resource/style/component/convertlanguage/stconvert.css" type="text/css" rel="stylesheet">
+
+
+<!-- 文字显示 -->
+
+<!-- 按钮显示 -->
+
+<!-- 图片显示 -->
+
+	
+	<input type="image" width="36" height="14" src="../../../../../images/jianti.gif" onclick="st_convert(0)" />
+	
+	
+	<input type="image" width="36" height="14" src="../../../../../images/fanti.gif" onclick="st_convert(1)" />
+	
+
+
+
+<script language="javascript" src="../../../../../system/resource/js/language.js"></script>
+<script language="javascript">
+	
+		st_multiOnload("st_convert(0)");
+		
+	
+
+</script><!--#endeditable--></td>
+<td bgcolor="#f6f6f6" width="105" align="center"><!--#begineditable name="wap" viewid="1157" tagname="wap" action="" layout="" contype="" stylesysid=""-->     
+     
+  
+     
+ 
+<script language="javascript" src="../../../../../system/resource/js/dynclicks.js"></script>
+<table border="0" width="0">     
+    <tr>   
+            <td align="absmiddle">
+<span class="leaderstyle1157"><img src="../../../../../images/ddd.gif"></span></td>     
+            <td width="0" align="left">   
+                <A HREF="../../../../../wapindex.htm" onclick="_addDynClicks('wburl',842629408,1001)" target="_blank"><span class="linkstyle1157">WAP</span></A>
+                 
+            </td>     
+</tr></table><!--#endeditable--></td>
+<td background="../../../../../zwgk/images/logo-top_11.gif" width="74"><!--#begineditable name="RSS链接" viewid="1552" tagname="rss链接" action="" layout="" contype="" stylesysid=""-->     
+     
+  
+     
+ 
+
+<table border="0" width="0">     
+    <tr>   
+            <td align="absmiddle">
+<span class="leaderstyle1552"><img src="../../../../../images/ddd.gif"></span></td>     
+            <td width="0" align="left">   
+                <A HREF="../../../../../rss.htm" onclick="_addDynClicks('wburl',842629408,1354)" target="_blank" title="RSS订阅"><span class="linkstyle1552">RSS</span></A>
+                 
+            </td>     
+</tr></table><!--#endeditable--></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1003" align="center">
+<tbody>
+<tr>
+<td height="177"><!--#begineditable name="banner" viewid="1144" tagname="banner" action="" layout="" contype="" stylesysid=""--><object width="1003" height="180" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0">
+<param name="movie" value="../../../../../images/1_imgt.swf"><param name="quality" value="high"><param name="wmode" value="opaque">
+<embed src="../../../../../images/1_imgt.swf" quality="high" wmode="opaque" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1003" height="180"></embed>
+</object><!--#endeditable--></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1003" bgcolor="#ffffff" align="center">
+<tbody>
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" width="1003" align="center">
+<tbody>
+<tr>
+<td height="38" background="../../../../../zwgk/images/index_main_01.gif" align="center" style="background-repeat: no-repeat"><!--#begineditable name="网站导航" viewid="1602" tagname="网站导航" action="" layout="" contype="" stylesysid=""--><script type="text/javascript" src="../../../../../system/resource/js/jquery/jquery-1.7.1.min.js"></script>
+<script language="javascript">
+    jQuery.noConflict();
+    jQuery(document).ready(function($){
+        jQuery(".first_menu_li").bind('mouseenter',_nav_menufun_switch_over_1);
+        jQuery("#content_nav_div_1").bind('mouseleave',_nav_menufun_switch_out_1);
+    });
+    function _nav_menufun_switch_over_1(event)
+    {
+        
+        jQuery(".c1602_secondmenu").each(function(){
+            jQuery(this).css("display","none");
+        });
+        var _cur_treeid = jQuery(event.target).attr("treeid");
+        var _second_menu_ul = jQuery("#smenu_"+_cur_treeid);
+        if(_second_menu_ul)
+        {
+            _second_menu_ul.css("display","block");
+        }
+    }
+    function _nav_menufun_switch_out_1()
+    {
+        jQuery(".c1602_secondmenu").each(function(){
+            jQuery(this).css("display","none");
+        });
+    }
+</script>
+<style>
+   #content_nav_div_1 div ul li a:hover 
+    { 
+        color:#ff0000;}
+   </style>
+<div id="content_nav_div_1" style="width:1000px;display:table;padding-top:10px;margin: 0px">
+    <div style="width:1000px;position:relative;display:table;margin: 0px;height:28px">
+        <ul style="position:relative;display:table;margin: 0px">
+                <li style="list-style: none;display: inline"><a href="../../../../../index.htm" class="first_menu_li" treeid="1001" style="font-weight:bold;COLOR: #ffffff;font-size: 11pt;TEXT-DECORATION: none;padding-left:35px;padding-right:35px"><span src="" curid="0" border="0" focusurl="" treeid="1001">首页</span></a>
+                </li>
+                <li style="list-style: none;display: inline"><a href="../../../../../slgky.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009" class="first_menu_li" treeid="1009" style="font-weight:bold;COLOR: #ffffff;font-size: 11pt;TEXT-DECORATION: none;padding-left:35px;padding-right:35px"><span src="" curid="1" border="0" focusurl="" treeid="1009">商洛概况</span></a>
+                </li>
+                <li style="list-style: none;display: inline"><a href="../../../../../xxgk.htm" class="first_menu_li" treeid="1002" style="font-weight:bold;COLOR: #ffffff;font-size: 11pt;TEXT-DECORATION: none;padding-left:35px;padding-right:35px"><span src="" curid="2" border="0" focusurl="" treeid="1002">信息公开</span></a>
+                </li>
+                <li style="list-style: none;display: inline"><a href="../../../../../zwfw1.htm" class="first_menu_li" treeid="2252" style="font-weight:bold;COLOR: #ffffff;font-size: 11pt;TEXT-DECORATION: none;padding-left:35px;padding-right:35px"><span src="" curid="3" border="0" focusurl="" treeid="2252">政务服务</span></a>
+                </li>
+                <li style="list-style: none;display: inline"><a href="../../../../../zmhd/zmhd_index.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004" class="first_menu_li" treeid="1004" style="font-weight:bold;COLOR: #ffffff;font-size: 11pt;TEXT-DECORATION: none;padding-left:35px;padding-right:35px"><span src="" curid="4" border="0" focusurl="" treeid="1004">政民互动</span></a>
+                </li>
+                <li style="list-style: none;display: inline"><a href="../../../../../tp_fylby.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" class="first_menu_li" treeid="1008" style="font-weight:bold;COLOR: #ffffff;font-size: 11pt;TEXT-DECORATION: none;padding-left:35px;padding-right:35px"><span src="" curid="5" border="0" focusurl="" treeid="1008">专题专栏</span></a>
+                </li>
+        </ul>
+    </div>
+           <div id="smenu_1001" class="c1602_secondmenu" style="display: none;width:830px;text-align: left">
+               <ul id="smenu_ul_1001" class="second_menu_ul" style="padding-left:0px;margin:0px">
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../wejfylby.jsp?urltype=tree.TreeTempUrl&wbtreeid=1054" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">今日商洛</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../wejfylby.jsp?urltype=tree.TreeTempUrl&wbtreeid=1056" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">部门动态</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../wejfylby.jsp?urltype=tree.TreeTempUrl&wbtreeid=2027" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">丹江评论</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../wejfylby.jsp?urltype=tree.TreeTempUrl&wbtreeid=1057" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">县区动态</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../wejfylby.jsp?urltype=tree.TreeTempUrl&wbtreeid=2181" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">政府网站普查</a>
+                       
+                       </li>
+               </ul>
+           </div>
+           <div id="smenu_1009" class="c1602_secondmenu" style="display: none;width:830px;text-align: left">
+               <ul id="smenu_ul_1009" class="second_menu_ul" style="padding-left:0px;margin:0px">
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgky.jsp?urltype=tree.TreeTempUrl&wbtreeid=1036" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">市情</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk/dt.htm" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">地图</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">区划</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">形胜</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1040" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">历史</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1041" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">人口</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">资源</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1043" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">经济</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">社会</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">人文</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1046" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">名家</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">旅游</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1049" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">特产</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1052" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">友城</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../slgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1502" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">歌曲</a>
+                       
+                       </li>
+               </ul>
+           </div>
+           <div id="smenu_1002" class="c1602_secondmenu" style="display: none;width:830px;text-align: left">
+               <ul id="smenu_ul_1002" class="second_menu_ul" style="padding-left:0px;margin:0px">
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/lmzlzwzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1012" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">市政府信息公开规定</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/lmzlzwzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1011" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">市政府信息公开指南</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkmbml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1014" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">市政府信息公开目录</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">政府信息公开年度报告</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/ysqgkfy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1018" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">依申请公开说明</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/ysqgkck.jsp?urltype=tree.TreeTempUrl&wbtreeid=1994" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">依申请公开查看</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/lmzlfy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1019" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">公开监督保障机制</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../xxgk/zfld.htm" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">政府领导</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1180" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">组织机构</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1832" target="_blank" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">公示公告</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1181" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">政策法规</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1182" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">政府文件</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1190" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">工作报告</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=2253" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">政府公报</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1191" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px"> 政府会议</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=2057" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">商政通报</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1192" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">规划计划</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1208" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">统计数据</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=2251" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">城乡建设</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1209" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">财政信息</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1210" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">政府采购</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1211" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">重大项目</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1212" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">应急管理</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1214" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">人事信息</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1215" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">重点领域</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1216" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">监督检查</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1217" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">脱贫攻坚</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1218" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">行政许可</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1219" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">征地拆迁</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=1220" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">社区公益</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=2180" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">四城联创</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=2220" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">目标考核</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=2221" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">工程招投标</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=2222" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">社会管理</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=2223" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">信用建设</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zwgk/szfgkml.jsp?urltype=tree.TreeTempUrl&wbtreeid=2224" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">优化营商环境</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../fylby.jsp?urltype=tree.TreeTempUrl&wbtreeid=1031" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">电子政务</a>
+                       
+                       </li>
+               </ul>
+           </div>
+           <div id="smenu_1004" class="c1602_secondmenu" style="display: none;width:830px;text-align: left">
+               <ul id="smenu_ul_1004" class="second_menu_ul" style="padding-left:0px;margin:0px">
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zmhd/ldxxlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1112" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">市长信箱</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zmhd/zxzxfy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1113" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">在线咨询</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zmhd/zxtsfy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1114" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">投诉举报</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zmhd/jyxcfy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1115" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">建言献策</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zmhd/myzj.jsp?urltype=tree.TreeTempUrl&wbtreeid=1981" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">民意征集</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zmhd/zxdc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1117" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">在线调查</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zmhd/wspy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1118" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">网上评议</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zmhd/wspy.jsp?urltype=tree.TreeTempUrl&wbtreeid=2008" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">热点评述</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../zmhd/wspy.jsp?urltype=tree.TreeTempUrl&wbtreeid=2009" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">媒体关注</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="http://61.185.136.46:8282/ivss/web/jwzt/service09/meetingRoom/roomShow/fangtan.jsp?index=1" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">在线访谈</a>
+                       
+                       </li>
+               </ul>
+           </div>
+           <div id="smenu_1008" class="c1602_secondmenu" style="display: none;width:830px;text-align: left">
+               <ul id="smenu_ul_1008" class="second_menu_ul" style="padding-left:0px;margin:0px">
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../ztzl/zgqlstlyj.htm" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">中国秦岭生态旅游节</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../ztzl/hbdc/index2.jsp?urltype=tree.TreeTempUrl&wbtreeid=2188" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">中央生态环保督察回头看（历史专题）</a>
+                       &nbsp;|&nbsp;
+                       </li>
+                       <li class="second_menu_li" style="list-style: none;display: inline;line-height:10pt"><a href="../../../../../ztzl/bmysgkml.htm" style="line-height:150%;font-size:10pt;color:#000000;TEXT-DECORATION: none;text-align: left;padding-top: 3px;padding-right: 3px;padding-bottom: 3px">商洛市2019年部门预算公开目录（历史专题）</a>
+                       
+                       </li>
+               </ul>
+           </div>
+</div>
+<!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1003" align="center">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="35" width="303">
+<p align="center">
+</p></td>
+<td bgcolor="#ffffff" valign="baseline" width="360" align="center"><!--#begineditable name="文本日历" viewid="1005" tagname="文本日历" action="" layout="" contype="" stylesysid=""--><script language="javascript" src="../../../../../system/resource/js/calendar/cld.js"></script>               
+<script language="JavaScript">
+function RunGLNL1005(){          
+var today=new Date();          
+var d=new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+var nian = getYear(today)+"年"+(today.getMonth()+1)+"月" +today.getDate()+"日";         
+document.write('<div  class="fontstyle1005" >');          
+document.write(nian+"&nbsp;&nbsp;"+d[today.getDay()]);          
+document.write("&nbsp;&nbsp;"+CnDateofDateStrNoBr(today));          
+document.write("&nbsp;&nbsp;"+SolarTerm(today));          
+document.write("</div>");         
+} RunGLNL1005();          
+</script>        <!--#endeditable--></td>
+<td bgcolor="#ffffff" width="340"><!--#begineditable name="信息公开--关键字-简单检索-横" viewid="1840" tagname="信息公开--关键字-简单检索-横" action="" layout="" contype="" stylesysid=""-->
+<form name="simplesearch1840" id="simplesearch1840" method="post" action="../../../../../zwgk/xxgkjsjg.jsp?urltype=egovinfo.EgovSearchList&wbtreeid=1002&stype=simple" style="display: inline">
+	<table class="winstyle1840" cellspacing="0" cellpadding="0" width="100%" border="0" style="word-break: break-all">
+		<tr>
+			<td nowrap="nowrap">
+				<input type="text" name="keysimplesearchword" id="keysimplesearchword" value="" style="width: 80PX">
+			</td>
+			<td nowrap="nowrap">
+				<select name="searchtype" id="searchtype" class="selectstyle1840">
+					<option value="" selected>
+						全&nbsp;&nbsp;&nbsp;&nbsp;部
+					</option>
+					<option value="title">
+						名&nbsp;&nbsp;&nbsp;&nbsp;称
+					</option>
+					<option value="indentifier">
+						索&nbsp;引&nbsp;号
+					</option>
+					<option value="docno">
+						文&nbsp;&nbsp;&nbsp;&nbsp;号
+					</option>
+					<option value="pubdept">
+						发布机构
+					</option>
+				</select>
+			</td>
+			
+			<td nowrap="nowrap">
+				<select name="searchtime" id="searchtime" class="searchtimestyle1840">
+					<option value="" selected>
+						全部时间
+					</option>
+					
+					<option value="2020">2020</option>
+					
+					<option value="2019">2019</option>
+					
+					<option value="2018">2018</option>
+					
+					<option value="2017">2017</option>
+					
+					<option value="2016">2016</option>
+					
+					<option value="2015">2015</option>
+					
+					<option value="2014">2014</option>
+					
+					<option value="2013">2013</option>
+					
+					<option value="2012">2012</option>
+					
+					<option value="2011">2011</option>
+					
+					<option value="2010">2010</option>
+					
+					<option value="2009">2009</option>
+					
+					<option value="2008">2008</option>
+					
+					<option value="2007">2007</option>
+					
+					<option value="2006">2006</option>
+					
+					<option value="2005">2005</option>
+					
+					<option value="2004">2004</option>
+					
+					<option value="2003">2003</option>
+					
+				</select>
+			</td>
+			<td nowrap="nowrap">
+			     
+				  <img src="../../../../../zmhd/images/cxAN.jpg" border="0" onclick="javascript:document.getElementById('simplesearch1840').submit();" align="absmiddle" style="cursor: pointer">  
+				
+			</td>
+		</tr>
+	</table>
+</form><!--#endeditable--></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1003" align="center">
+<tbody>
+<tr>
+<td height="40" valign="bottom" background="../../../../../zwgk/images/zwgk_nry_01.gif">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td height="30" width="3%" align="right"><img src="../../../../../images/dot-hui.jpg"></td>
+<td width="1%"></td>
+<td width="96%"><!--#begineditable name="当前位置" viewid="1225" tagname="当前位置" action="" layout="" contype="" stylesysid=""-->  
+<table class="winstyle1225" cellspacing="0" cellpadding="0"><tr><td nowrap>当前位置:   
+<a href="../../../../../index.htm"><span class="fontstyle1225">首页</span></a><span class="splitflagstyle1225">>></span><a href="../../../../../xxgk.htm"><span class="fontstyle1225">信息公开</span></a><span class="splitflagstyle1225">>></span><span class="fontstyle1225">公开信息内容</span></td></tr></table><!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1003" align="center">
+<tbody>
+<tr>
+<td height="500" valign="top" background="../../../../../zwgk/images/zwgk_nry_02.gif">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td width="6%"></td>
+<td width="88%">
+<p align="center"><br><!--#begineditable name="信息公开内容样式二" viewid="1215" tagname="信息公开内容样式二" action="" layout="" contype="" stylesysid=""-->
+
+<script language="javascript" src="../../../../../system/resource/egovinfo/egovinfocontent.js"></script>
+<LINK href="../../../../../system/resource/style/component/news/content/format2.css" type="text/css" rel="stylesheet">
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+        <td valign="top">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td style="FONT-WEIGHT: bold;FONT-SIZE: 14pt;COLOR: #d52b2b;LINE-HEIGHT: 250%;FONT-FAMILY: 宋体;TEXT-ALIGN: center">
+                            商洛市市场智慧监管平台市级监管终端配套设施项目成交结果公告
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="background-color: #fffcf6;border: 1px solid #edc77b;padding-top: 3px;padding-right: 4px;padding-left: 4px;vertical-align: top;height: 60px">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                                <td nowrap="nowrap" style="font-size:12px;color:#222222;font-weight:bold;width:85px;text-align:right;height:26px">索&nbsp;&nbsp;引&nbsp;&nbsp;号：</td>
+                                                <td nowrap="nowrap" style="font-size: 12px;color: #5b554e;text-align:left">01606072-9-30/2020-1117005</td>
+                                                <td nowrap="nowrap" style="font-size:12px;color:#222222;font-weight:bold;width:85px;text-align:right;height:26px">公开目录：</td>
+                                                
+                                                <td nowrap="nowrap" style="font-size: 12px;color: #5b554e;text-align:left">中标公告</td>
+                                                <td nowrap="nowrap" style="font-size:12px;color:#222222;font-weight:bold;width:85px;text-align:right;height:26px">发布日期：</td>
+                                                <td nowrap="nowrap" style="font-size: 12px;color: #5b554e;text-align:left">2020年10月30日</td>
+                                </tr>
+                                <tr>
+                                                <td nowrap="nowrap" style="font-size:12px;color:#222222;font-weight:bold;width:85px;text-align:right;height:26px;display:none">主题词：</td>
+                                                <td nowrap="nowrap" style="font-size: 12px;color: #5b554e;text-align:left;display:none"></td>
+                                                <td nowrap="nowrap" style="font-size:12px;color:#222222;font-weight:bold;width:85px;text-align:right;height:26px">发布机构：</td>
+                                                <td nowrap="nowrap" style="font-size: 12px;color: #5b554e;text-align:left">市政府办</td>
+                                                <td nowrap="nowrap" style="font-size:12px;color:#222222;font-weight:bold;width:85px;text-align:right;height:26px;display:none">文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;号：</td>
+                                                <td nowrap="nowrap" style="font-size: 12px;color: #5b554e;text-align:left;display:none"></td>
+                                                <td nowrap="nowrap" style="font-size:12px;color:#222222;font-weight:bold;width:85px;text-align:right;height:26px;display:none">公文时效：</td>
+                                                <td nowrap="nowrap" style="font-size: 12px;color: #5b554e;text-align:left;display:none"></td>
+                                </tr>
+                                
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- <tr><td style=""></td></tr> -->
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td style="font-size:14px;color:#5a5a5a;line-height:150%"><div id="egovinfocontenttable"><div id="vsb_content_2"><P>
+<H3>
+<P></P>
+<P>商洛市政府采购中心根据商洛市财政局下达的政府集中采购项目备案计划，并受商洛市市场监督管理局委托，就商洛市市场智慧监管平台市级监管终端配套设施项目实施竞争性磋商采购。本次磋商工作已经结束，现将磋商结果公告如下：</P>
+<P>一、项目编号: SLCG-JZXCS〔2020〕7号</P>
+<P>二、项目名称：商洛市市场智慧监管平台市级监管终端配套设施项目</P>
+<P>三、成交信息:</P>
+<P>供应商名称：陕西盛世盈合科技有限公司</P>
+<P>供应商地址：商洛市商州区金泉小区7号楼东单元101</P>
+<P>成交金额：526890元</P>
+<P>四、主要标的信息：</P>
+<P>商洛市市场智慧监管平台市级监管终端配套设施项目由28台55英寸0.88mm的液晶显示单元、高清信号处理器、会议音视频系统等辅助设备组成拼接显示墙。</P>
+<P>五、磋商小组成员名单：王玉钧、彭腾、周亚平</P>
+<P>六、代理服务收费标准及金额：0元</P>
+<P>七、公告期限</P>
+<P>自本公告发布之日起1个工作日。</P>
+<P>八、其他补充事宜：无</P>
+<P>九、凡对本次公告内容提出询问，请按以下方式联系。</P>
+<P>1.采购人信息</P>
+<P>名 称：商洛市市场监督管理局</P>
+<P>地 址：商洛市商州区江滨路西段</P>
+<P>联系人:周亚平</P>
+<P>联系方式：0914-2993069</P>
+<P>2. 磋商组织机构：</P>
+<P>名 称：商洛市政府采购中心</P>
+<P>地 址：商洛市商州区工农路12号（商洛财政大楼611-1室）</P>
+<P>联系人：王秀娟</P>
+<P>联系方式：0914-2318823 传真：0914-2333171</P>
+<P></P>
+<P></P>
+<P>商洛市政府采购中心 </P>
+<P>2020年10月29日 </P>
+<P></H3></P></div></div></td></tr>
+                </table>
+            </td>
+            </tr>
+            
+            
+           
+               <tr>
+                <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                             <td width="100%" align="center" style="font-size:12px;color:#5b554e;height:26px">&nbsp;</td>
+                              
+                                   <td align="right" nowrap="nowrap" style="font-size:12px;color:#5b554e;height:26px">
+                                       <a href="../../../../../system/resource/egovinfo/savetoword.jsp?indentifier=01606072-9-30/2020-1117005" id="savetowordhref"><img src="../../../../../system/resource/egovinfo/img/menu_word.jpg" border="0" align="absmiddle" style="cursor: pointer"></a>
+                                   </td>
+                                   
+                                   
+                                   <td width="10px">&nbsp;</td>
+                                   <td align="right" nowrap="nowrap" style="font-size:12px;color:#5b554e;height:26px">
+                                       <img src="../../../../../system/resource/egovinfo/img/menu_dy.jpg" onclick="javascript:doprintinfo('01606072-9-30/2020-1117005')" style="cursor: pointer">
+                                   </td>
+                                   
+                                   
+                                   <td width="10px">&nbsp;</td>
+                                   <td align="right" nowrap="nowrap" style="font-size:12px;color:#5b554e;height:26px">
+                                       <img src="../../../../../system/resource/egovinfo/img/menu_gb.jpg" onclick="javascript:close_win1215();" style="cursor: pointer">
+                                   </td>
+                                   <td width="10px">&nbsp;</td>
+                               
+                            </tr>
+                        </table>
+                </td>
+            </tr>
+            
+</table>
+<script>
+function close_win1215()
+{
+    window.close();
+}
+function save_to_word1215()
+{
+    document.getElementById('savetowordhref').click();
+}
+function doprintinfo(iden)
+{
+   var w =  (window.screen.width -800) / 2;
+   var h =  (window.screen.height -600) / 2;
+   var b = window.open ("/system/resource/egovinfo/print.jsp?indentifier="+iden, 'newwindow', 'height=600, width=800, top='+h+', left='+w+', toolbar=no, menubar=no, scrollbars=auto, resizable=yes,location=no, status=no');
+}
+</script><!--#endeditable--></p></td>
+<td width="6%"></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1003" align="center">
+<tbody>
+<tr>
+<td><img alt="" src="../../../../../zwgk/images/zwgk_nry_03.gif" width="1003" height="36"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1003" align="center">
+<tbody>
+<tr>
+<td><img alt="" src="../../../../../zwgk/images/index_main_15.gif" width="1003" height="8"></td></tr></tbody></table><script language="JavaScript" type="text/javascript">
+function showtab(m,n,count){
+    var strPic1="url(images/here5.gif)";
+    var strPic2="url(images/there6.gif)";                       
+       for(var i=1;i<=count;i++)
+        {
+           if (i==n){
+           getObject(m+'_'+i).style.background=strPic1;
+           getObject('td_'+m+'_'+i).style.color='#ffffff';
+           getObject('tab_'+m+'_'+i).style.display='';
+           }
+           else {
+           getObject(m+'_'+i).style.background=strPic2;
+           getObject('td_'+m+'_'+i).style.color='#333333';
+           getObject('tab_'+m+'_'+i).style.display='none';
+           }
+         }
+}
+function getObject(objectId) {
+    if(document.getElementById && document.getElementById(objectId)) {
+ return document.getElementById(objectId);
+    } else if (document.all && document.all(objectId)) {
+ return document.all(objectId);
+    } else if (document.layers && document.layers[objectId]) {
+ return document.layers[objectId];
+    } else {
+ return false;
+    }
+} 
+
+      </script>
+<table border="0" cellspacing="0" cellpadding="0" width="1003" align="center">
+<tbody>
+<tr>
+<td height="25" background="../../../../../zwgk/images/index_main_16.gif" align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td width="7%">&nbsp;</td>
+<td width="39%" align="right"><a href="../../../../../kzwy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1176"><img border="0" src="../../../../../zwgk/images/00-wzsm.gif" width="52" height="12"></a></td>
+<td width="1%" align="right">&nbsp;</td>
+<td width="6%" align="right"><a href="../../../../../index/wzdt.htm"><img border="0" src="../../../../../zwgk/images/00-wzdt.gif" width="52" height="12"></a></td>
+<td width="1%" align="right">&nbsp;</td>
+<td width="7%" align="right"><a href="../../../../../kzwy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1178"><img border="0" src="../../../../../zwgk/images/00-gywm.gif" width="52" height="12"></a></td>
+<td width="1%">&nbsp;</td>
+<td width="38%"><a href="../../../../../zwgk/#" onclick="goTop();return false;"></a></td>
+</tr></tbody></table></td></tr>
+<tr>
+<td height="63" background="../../../../../zwgk/images/index_main_16.gif" align="center"><!--#begineditable name="版权" viewid="1072" tagname="版权" action="" layout="" contype="" stylesysid=""--><P align="center" style="margin: 0px"><FONT style="font-size: 9pt">商洛市人民政府主办 &nbsp; 商洛市政府政务信息化办公室承办&nbsp; &nbsp; 联系电话：0914-2321063&nbsp;&nbsp;&nbsp; Email：</FONT><A href="mailto:xxzx407@126.com"><FONT style="font-size: 9pt">xxzx407@126.com</FONT></A><BR><FONT style="font-size: 9pt">建议使用1024*768分辨率，16位以上ie6.0以上版本浏览器 <A href="http://www.beian.miit.gov.cn/">陕ICP备13007611号-1</A> 网站标识码：6110000040<BR></FONT><FONT style="font-size: 9pt"><A href="http://net.china.com.cn/">违法与不良信息举报</A>&nbsp;&nbsp; <A href="http://www.cyberpolice.cn/wfjb/">网络违法犯罪举报</A><BR></FONT></P>
+<DIV style="width: 300px;padding-bottom: 3px;padding-top: 3px;padding-left: 0px;margin: 0px auto;padding-right: 0px"><A href="http://www.shangluo.gov.cn/_ipv6_/http/www.beian.gov.cn//portal/registerSystemInfo?recordcode=61100202000010" target="__blank" style="text-decoration: none;height: 20px;width: 200px;padding-bottom: 5px;padding-top: 2px;padding-left: 0px;margin: 0px auto;display: inline-block;line-height: 20px;padding-right: 0px"><IMG border="0" src="../../../../../zwgk/images/index-huizhang.png" style="float: left"> 
+<P style="height: 20px;float: left;color: #939393;margin: 0px 0px 0px 5px;line-height: 20px">陕公网安备 61100202000010号</P></A></DIV>
+<TABLE cellspacing="0" cellpadding="0" width="200" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="80" colspan="2" align="center"><SPAN id="_ideConac"><A href="http://www.shangluo.gov.cn/_ipv6_/http/bszs.conac.cn//sitename?method=show&id=0CFB30A0E5A86CEBE053022819AC3362" target="_blank"><IMG id="imgConac" border="0" hspace="0" src="../../../../../_mediafile/slzfw/2016/08/22/dpux8ztgod.png" data-bd-imgshare-binded="1"></A></SPAN></TD>
+<TD align="center">
+<SCRIPT id="_jiucuo_" src="http://www.shangluo.gov.cn/_ipv6_/http/www.shangluo.gov.cn/_ipv6_/http/pucha.kaipuyun.cn/exposure/jiucuo.js" sitecode="6110000040"></SCRIPT>
+</TD></TR></TBODY></TABLE><!--#endeditable--></td></tr>
+<tr>
+<td height="30" background="../../../../../zwgk/images/index_main_16.gif" align="center"><!--#begineditable name="计数器" viewid="1170" tagname="计数器" action="" layout="" contype="" stylesysid=""-->     
+<table width="1%" align="center">
+    <tr>
+
+        <td valign="middle" nowrap><span class="btextstyle1170">您是第</span></td>
+        
+        <td valign="middle" nowrap><img src="../../../../../system/_component/jsq/counter.jsp?wbtreeid=1002&owner=842629408&len=8&style=2&basenum=4000000&countertype=TOTAL_COUNTER"></td>
+        
+        <td valign="middle" nowrap><span class="btextstyle1170">位访客！</span></td>
+        
+    </tr>
+</table><!--#endeditable-->
+<p></p></td></tr></tbody></table>
+
+</body></html>
