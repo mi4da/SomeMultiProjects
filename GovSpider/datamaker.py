@@ -1,2 +1,0 @@
-class Datamade:
-    pass

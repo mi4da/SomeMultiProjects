@@ -3,7 +3,7 @@ import regex as re
 
 # 获得招标方，关键词："采购单位：...\n","采购人信息\n名 称：...\n","采购人名称：...\n"
 def get_invitor(data):
-    pattern_list = ["(?s)<P>1.采购人信息</P>\r\n<P>名 称：(.*?)</P>", '采购单位：(.*)</p>', "采购人名称：(.*)</P>"]
+    pattern_list = ["(?s)<P>1.采购人信息</P>\r\n<P>名 称：(.*?)</P>", '采购单位：(.*)</p>', "采购人名称：(.*)</P>","(?s)\r\n第一中标候选人(.*?)<BR>"]
     for i in pattern_list:
         res = re.findall(i, data)
         if res:
