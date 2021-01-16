@@ -125,9 +125,9 @@ if __name__ == '__main__':
     # 生成所有页面url
     urls = [page_url.format(i) for i in range(1, 25)]
     """开启页面线程池子"""
-    page_executer = ThreadPoolExecutor(max_workers=4)
+    executer = ThreadPoolExecutor(max_workers=8)
     # 生成map对象
-    concent_concurrent_url_list = page_executer.map(get_all_content_url, urls)
+    concent_concurrent_url_list = executer.map(get_all_content_url, urls)
     # 实例化map对象,获得所有内容url
     _concent_concurrent_url_list_maped = list(concent_concurrent_url_list)
     # 将列表展开
@@ -140,10 +140,9 @@ if __name__ == '__main__':
     print("页面线程已全部结束，进入10秒睡眠")
     time.sleep(10)
     print("睡眠结束，进入内容线程阶段")
-    """开启内容线程池子"""
-    concent_executer = ThreadPoolExecutor(max_workers=4)
+
     # 生成map对象
-    obj_concurrent_list = concent_executer.map(get_obj_list, concent_concurrent_url_list_maped)
+    obj_concurrent_list = executer.map(get_obj_list, concent_concurrent_url_list_maped)
     # 实例化map对象，获得所有实体列表
     obj_concurrent_list_maped = list(obj_concurrent_list)
 

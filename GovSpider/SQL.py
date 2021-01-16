@@ -46,6 +46,8 @@ class database:
         # 创建游标对象
         cursor = db.cursor()
         # SQL 插入语句
+        # 在插入网页之前，需要先对其进行转义
+        content[-1] = pymysql.escape_string(content[-1])
         sql = "INSERT INTO 商洛市政府官网中标信息(文件类型, \
                招标方, 中标方, 成交时间, 成交金额, 文件标题, 网页内容) \
                VALUES ('%s', '%s',  '%s',  '%s',  '%s', '%s', '%s')" % \
@@ -64,6 +66,21 @@ class database:
 
 
 if __name__ == '__main__':
-    db = database()
+    info = {
+        "host": "localhost",
+        "user": "root",
+        "password": "haizeiwang",
+        "db": "TESTDB",
+        "charset": "utf8"  # 一定要加上负责中文无法显示
+    }
+    db = database(info)
     db.create_table()
-    db.insert_data()
+    with open("./content.html",'r',encoding='utf-8') as file:
+        f = file.read()
+        # f = f.replace("\r", "").replace('\n',"").replace("/","").replace("\\","")
+        # f = pymysql.escape_string(f)
+        print(type(f))
+        print(f)
+
+        db.insert_data(['a','c','d','f','x','d',f])
+    print("finish")
